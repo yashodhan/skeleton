@@ -1,3 +1,5 @@
+⚠️ This project is unmaintained.
+
 # skeleton
 
 Starter skeleton for a Node.js web app. A minimal, elegant foundation that aims to reduce the time it takes to build an application from scratch.
